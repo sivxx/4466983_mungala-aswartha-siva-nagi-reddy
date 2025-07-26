@@ -1,4 +1,8 @@
 hlo this is demos
 i want to merge
+<<<<<<< Updated upstream
 
+=======
+this is line 3
+>>>>>>> Stashed changes
 
